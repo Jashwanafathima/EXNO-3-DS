@@ -1,5 +1,6 @@
-## EXNO-3-DS
-
+## EXNO-3-DS : Feature Encoding and Transformation
+## NAME: JASHWANA FATHIMA S
+## REGISTER NUMBER: 212222040059
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
